@@ -5,10 +5,11 @@ Sistema de gestão financeira profissional desenvolvido em Laravel, projetado pa
 ## 📌 Visão Geral
 Este sistema foca na gestão centralizada de uma única organização, permitindo o controle total de movimentações financeiras, contas a pagar/receber e relacionamento com fornecedores e clientes.
 
-## 🔧 Funcionalidades (Core Gratuito)
+## 🔧 Funcionalidades
 * **Dashboard Administrativo:** Controle visual de saldos bancários e fluxo de caixa.
 * **Gestão de Lançamentos:** Fluxo simplificado de entradas e saídas de caixa.
-* **Cadastros Estruturados:** Gerenciamento de Clientes, Fornecedores, Bancos e Centros de Custo.
+* **Relatórios:** Relatórios de Saldo de Contas, Movimentação Financeira, Fluxo de Caixa Projetado e Análise por Clientes.
+* **Cadastros Estruturados:** Gerenciamento de Clientes, Fornecedores, Bancos, Planos de Contas e Centros de Custo.
 * **Controle de Contas:** Organização de contas bancárias e métodos de pagamento.
 * **Segurança:** Sistema de autenticação e controle de acesso integrado.
 
