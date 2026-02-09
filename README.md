@@ -42,6 +42,11 @@ php artisan key:generate
 php artisan migrate
 ```
  
+## 🔑 Acesso Inicial
+Após a execução das migrations, utilize as credenciais abaixo para explorar a plataforma:
+
+Usuário: admin
+Senha: demo
 
 ### 💻 Demo
 
